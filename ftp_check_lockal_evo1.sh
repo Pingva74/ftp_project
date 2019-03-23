@@ -1,8 +1,8 @@
 #!/bin/bash
 
-FTPUSER=ftp_u
-FTPPASSWORD=centos
-FTPHOST="ftp://192.168.0.112"
+FTPUSER=ftp_u # FTP user
+FTPPASSWORD=centos #FTP passvord
+FTPHOST="ftp://192.168.0.112" # FTP host
 FTPHOSTC="ftp://192.168.0.112/"
 DIRFILE="dir.txt"
 touch dir.txt
